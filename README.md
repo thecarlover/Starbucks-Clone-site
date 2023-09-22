@@ -11,11 +11,11 @@ The Starbucks Clone Project is an open-source endeavor dedicated to emulating th
 
 ## Implementation
 
-- **HTML** : I have used normal HTML 
+- **HTML** : I have used normal HTML, Go to index.html page 
 
-- **CSS**:I have used simple CSS all the links attached
+- **CSS**:I have used simple CSS all the links attached  go to style.css
 
-- **JS**: JS I have done very less animations just for fun purpose
+- **JS**: JS I have done very less animations just for fun purpose go to script.js
 
 ## Key Features
 
